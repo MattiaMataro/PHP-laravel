@@ -1,0 +1,9 @@
+{
+    "name": "andrea/marketplace",
+    "autoload": {
+        "psr-4": {
+            "Andrea\\Marketplace\\": "src/"
+        }
+    },
+    "require": {}
+}
